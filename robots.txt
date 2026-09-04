@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://thibaudlepan77-svg.github.io/steady-pitch/sitemap.xml
+Sitemap: https://thibaudlepan77-svg.github.io/civics-test-practice/sitemap.xml
