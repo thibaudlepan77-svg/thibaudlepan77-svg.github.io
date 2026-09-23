@@ -3,3 +3,6 @@ Allow: /
 
 Sitemap: https://thibaudlepan77-svg.github.io/steady-pitch/sitemap.xml
 Sitemap: https://thibaudlepan77-svg.github.io/civics-test-practice/sitemap.xml
+Sitemap: https://thibaudlepan77-svg.github.io/code-de-la-route/sitemap.xml
+Sitemap: https://thibaudlepan77-svg.github.io/reglements-de-consultation/sitemap.xml
+Sitemap: https://thibaudlepan77-svg.github.io/examen-civique/sitemap.xml
